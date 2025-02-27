@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Michael+Martinez+De+La+Hoz;+FullStack+Developer."></a>
 </p></h1>
-<h3 align="center">Soy ingeniero de sistemas y me dedico al desarrollo full stack. Me encanta desarrollar y resolver problemas usando mis increíbles habilidades tecnológicas. Tengo buenas habilidades de comunicación y ética de trabajo en equipo.
+<h3 align="center">Soy ingeniero de sistemas y me dedico al desarrollo FullStack. Me encanta desarrollar y resolver problemas usando mis increíbles habilidades tecnológicas. Tengo buenas habilidades de comunicación y ética de trabajo en equipo.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
