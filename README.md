@@ -1,80 +1,76 @@
-<div align="center">
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy...</h1>
 
-# Hola 👋, soy Michael Martínez De La Hoz
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Michael+Martinez+De+La+Hoz;FullStack+Developer.;Vue+%7C+React+%7C+Angular;Laravel+%7C+Node.js+%7C+Spring+Boot" alt="Typing SVG" />
+  </a>
+</p>
 
-<a href="https://github.com/mikeOz27">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=500&lines=FullStack+Developer;Vue+%7C+React+%7C+Angular;Laravel+%7C+Node.js+%7C+Spring+Boot" alt="Typing SVG" />
-</a>
+<h3 align="center">Soy ingeniero de sistemas y me dedico al desarrollo FullStack. Me encanta construir aplicaciones web de punta a punta y resolver problemas con tecnología. Tengo buenas habilidades de comunicación y trabajo en equipo.</h3>
 
-📍 Santa Marta, Colombia · 🎓 Ingeniería de Sistemas — Universidad del Magdalena
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<a href="https://mikeoz27.github.io/"><img src="https://img.shields.io/badge/Portafolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/michael-martinez-de-la-hoz"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://x.com/MikeDeLaOzz"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
-</div>
-
----
-
-## 🧑‍💻 Sobre mí
-
-Ingeniero de Sistemas enfocado en desarrollo **FullStack**. Construyo aplicaciones web de punta a punta: interfaces en Vue, React y Angular, y APIs REST con Laravel, Node.js/NestJS y Spring Boot.
-
-- 🔭 Actualmente trabajo en **[escribe aquí tu proyecto o rol actual]**
-- 🌱 Aprendiendo **[ej. TypeScript avanzado, NestJS, AWS]**
-- 🤝 Abierto a colaborar en proyectos web y open source
-- ⚽ Fuera del código: fútbol, videojuegos, anime y música
+## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí
 
 ```js
-const michael = {
-  rol: "FullStack Developer",
-  ubicacion: "Santa Marta, Colombia",
-  idiomas: ["Español"],
-  intereses: ["Innovación", "Arquitectura web", "UX"],
-  fortaleza: "Resolutivo",
-  disponibleParaColaborar: true,
-};
+/**
+ * Represents me.
+ *
+ * @constructor
+ * @param {string} ubicacion  - Santa Marta, Colombia.
+ * @param {string} lenguaje   - Español.
+ * @param {string} titulo     - Ingeniero de desarrollo web FullStack.
+ * @param {string} trabajando - [en qué trabajas ahora].
+ * @param {string} aprendiendo - [qué estás aprendiendo].
+ * @param {string} intereses  - Innovación y arquitectura web.
+ * @param {string} hobbies    - Fútbol, videojuegos, anime y escuchar música.
+ * @param {string} educacion  - Ingeniería de Sistemas, Universidad del Magdalena, Santa Marta.
+ * @param {string} accesible  - Sí, para colaborar en proyectos interesantes, ¡escríbeme!
+ * @param {string} fortaleza  - Resolutivo.
+ *
+ * @throws {Punch} A todos y cada uno de los errores.
+ */
 ```
 
-## 🛠️ Tecnologías
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-**Frontend**
+<h3 align="left">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conecta conmigo:
+</h3>
+<p align="left">
+  <a href="https://mikeoz27.github.io/"><img src="https://skillicons.dev/icons?i=github" title="Portafolio" /></a>
+  <a href="https://www.linkedin.com/in/michael-martinez-de-la-hoz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.instagram.com/michael_martinez7/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+  <a href="https://x.com/MikeDeLaOzz"><img src="https://skillicons.dev/icons?i=twitter" /></a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<h3 align="left">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Lenguajes y herramientas:
+</h3>
 
-**Backend**
+<p><b>Front</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,astro,jquery,bootstrap" /></a>
+</p>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+<p><b>Back</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,spring,python,cs,dotnet" /></a>
+</p>
 
-**Bases de datos**
+<p><b>DB</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /></a>
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p><b>Tools</b></p>
+<p align="center">
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" /></a>
+</p>
 
-**Herramientas**
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-## 🚀 Proyectos destacados
+<h3 align="left">🚀 Proyectos destacados:</h3>
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
@@ -82,11 +78,19 @@ const michael = {
 | [prueba-fullstack-front](https://github.com/mikeOz27/prueba-fullstack-front) + [prueba-fullstack-back](https://github.com/mikeOz27/prueba-fullstack-back) | Prueba técnica FullStack | TypeScript · PHP |
 | [spring-boot-mysql-crud](https://github.com/mikeOz27/spring-boot-mysql-crud) | CRUD con API REST | Java · Spring Boot · MySQL |
 | [laravel-crud](https://github.com/mikeOz27/laravel-crud) | CRUD con Laravel | PHP · Laravel · Blade |
-| [dragon-ball-desk-react](https://github.com/mikeOz27/dragon-ball-desk-react) | App consumiendo API pública | React · TypeScript |
+| [dragon-ball-desk-react](https://github.com/mikeOz27/dragon-ball-desk-react) | App que consume una API pública | React · TypeScript |
 
-## 📊 Estadísticas
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mikeOz27&show_icons=true&hide_border=true&count_private=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeOz27&layout=compact&hide_border=true&theme=transparent" />
-</div>
+<p align="center">
+  <a href="https://github.com/mikeOz27">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeOz27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeOz27&layout=compact&langs_count=8&theme=algolia" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeOz27&theme=react-dark&hide_border=true" width="100%" />
+</p>
+
+![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
