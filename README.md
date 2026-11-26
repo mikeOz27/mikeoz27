@@ -1,96 +1,59 @@
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy...</h1>
-
+<!-- DISEÑO C · HOLOGRAMA / HUD -->
+<!-- Sube assets/hud.svg a tu repo mikeOz27/mikeOz27 -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=Michael+Martinez+De+La+Hoz;FullStack+Developer.;Vue+%7C+React+%7C+Angular;Laravel+%7C+Node.js+%7C+Spring+Boot" alt="Typing SVG" />
-  </a>
-</p>
-
-<h3 align="center">Soy ingeniero de sistemas y me dedico al desarrollo FullStack. Me encanta construir aplicaciones web de punta a punta y resolver problemas con tecnología. Tengo buenas habilidades de comunicación y trabajo en equipo.</h3>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"> Sobre mí
-
-```js
-/**
- * Represents me.
- *
- * @constructor
- * @param {string} ubicacion  - Santa Marta, Colombia.
- * @param {string} lenguaje   - Español.
- * @param {string} titulo     - Ingeniero de desarrollo web FullStack.
- * @param {string} trabajando - [en qué trabajas ahora].
- * @param {string} aprendiendo - [qué estás aprendiendo].
- * @param {string} intereses  - Innovación y arquitectura web.
- * @param {string} hobbies    - Fútbol, videojuegos, anime y escuchar música.
- * @param {string} educacion  - Ingeniería de Sistemas, Universidad del Magdalena, Santa Marta.
- * @param {string} accesible  - Sí, para colaborar en proyectos interesantes, ¡escríbeme!
- * @param {string} fortaleza  - Resolutivo.
- *
- * @throws {Punch} A todos y cada uno de los errores.
- */
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<h3 align="left">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Conecta conmigo:
-</h3>
-<p align="left">
-  <a href="https://mikeoz27.github.io/"><img src="https://skillicons.dev/icons?i=github" title="Portafolio" /></a>
-  <a href="https://www.linkedin.com/in/michael-martinez-de-la-hoz/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="https://www.instagram.com/michael_martinez7/"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://x.com/MikeDeLaOzz"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-</p>
-
-<h3 align="left">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> Lenguajes y herramientas:
-</h3>
-
-<p><b>Front</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,angular,astro,jquery,bootstrap" /></a>
-</p>
-
-<p><b>Back</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,java,spring,python,cs,dotnet" /></a>
-</p>
-
-<p><b>DB</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" /></a>
-</p>
-
-<p><b>Tools</b></p>
-<p align="center">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vscode" /></a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
-
-<h3 align="left">🚀 Proyectos destacados:</h3>
-
-| Proyecto | Descripción | Stack |
-|---|---|---|
-| [invoice-crud-angular](https://github.com/mikeOz27/invoice-crud-angular) + [invoice-api-cshart.net](https://github.com/mikeOz27/invoice-api-cshart.net) | Sistema de facturación: frontend + API REST | Angular · C# .NET |
-| [prueba-fullstack-front](https://github.com/mikeOz27/prueba-fullstack-front) + [prueba-fullstack-back](https://github.com/mikeOz27/prueba-fullstack-back) | Prueba técnica FullStack | TypeScript · PHP |
-| [spring-boot-mysql-crud](https://github.com/mikeOz27/spring-boot-mysql-crud) | CRUD con API REST | Java · Spring Boot · MySQL |
-| [laravel-crud](https://github.com/mikeOz27/laravel-crud) | CRUD con Laravel | PHP · Laravel · Blade |
-| [dragon-ball-desk-react](https://github.com/mikeOz27/dragon-ball-desk-react) | App que consume una API pública | React · TypeScript |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<p align="center">
-  <a href="https://github.com/mikeOz27">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mikeOz27&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikeOz27&layout=compact&langs_count=8&theme=algolia" />
-  </a>
+  <img src="./assets/hud.svg" width="100%" alt="HUD holográfico" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeOz27&theme=react-dark&hide_border=true" width="100%" />
+  <a href="https://mikeoz27.github.io/"><img src="https://img.shields.io/badge/%E2%97%86%20PORTAFOLIO-14102e?style=for-the-badge&logo=githubpages&logoColor=00f0ff" /></a>
+  <a href="https://www.linkedin.com/in/michael-martinez-de-la-hoz/"><img src="https://img.shields.io/badge/%E2%97%86%20LINKEDIN-14102e?style=for-the-badge&logo=linkedin&logoColor=a66cff" /></a>
+  <a href="https://x.com/MikeDeLaOzz"><img src="https://img.shields.io/badge/%E2%97%86%20X-14102e?style=for-the-badge&logo=x&logoColor=ff4fd8" /></a>
+  <a href="https://www.instagram.com/michael_martinez7/"><img src="https://img.shields.io/badge/%E2%97%86%20INSTAGRAM-14102e?style=for-the-badge&logo=instagram&logoColor=ff4fd8" /></a>
 </p>
 
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ◈ Transmisión
+
+Ingeniero de Sistemas (Universidad del Magdalena) enfocado en **desarrollo FullStack**: diseño interfaces modernas y construyo las APIs que las alimentan.
+
+- 🛰️ **Misión actual:** [en qué trabajas ahora]
+- 🧬 **Evolucionando en:** [qué estás aprendiendo]
+- 🤝 **Canal abierto** para colaborar
+- 🎮 **Modo ocio:** fútbol · videojuegos · anime · música
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ Módulos instalados
+
+<img src="https://skillicons.dev/icons?i=vue,react,angular,ts,astro&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,spring,dotnet&theme=dark" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,aws&theme=dark" />
+
+</td>
+</tr>
+</table>
+
+<h3 align="center">◈ Proyectos en órbita ◈</h3>
+
+<p align="center">
+  <a href="https://github.com/mikeOz27/invoice-crud-angular"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikeOz27&repo=invoice-crud-angular&theme=tokyonight&hide_border=true&bg_color=14102e" /></a>
+  <a href="https://github.com/mikeOz27/invoice-api-cshart.net"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikeOz27&repo=invoice-api-cshart.net&theme=tokyonight&hide_border=true&bg_color=14102e" /></a>
+  <a href="https://github.com/mikeOz27/spring-boot-mysql-crud"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikeOz27&repo=spring-boot-mysql-crud&theme=tokyonight&hide_border=true&bg_color=14102e" /></a>
+  <a href="https://github.com/mikeOz27/dragon-ball-desk-react"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mikeOz27&repo=dragon-ball-desk-react&theme=tokyonight&hide_border=true&bg_color=14102e" /></a>
+</p>
+
+<h3 align="center">◈ Sensores ◈</h3>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mikeOz27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=14102e" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mikeOz27&theme=tokyonight&hide_border=true&background=14102e" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mikeOz27&bg_color=14102e&color=a66cff&line=00f0ff&point=ff4fd8&area=true&area_color=3b2f8f&hide_border=true" width="100%" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:00f0ff,50:a66cff,100:ff4fd8" width="100%" />
