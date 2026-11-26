@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-  <a href="https://mikeoz27.github.io/" target="_blank"><img src="https://img.shields.io/badge/%E2%9D%AF_portafolio-0a0f0a?style=for-the-badge&logo=githubpages&logoColor=39ff14" /></a>
-  <a href="https://www.linkedin.com/in/michael-martinez-de-la-hoz/" target="_blank"><img src="https://img.shields.io/badge/%E2%9D%AF_linkedin-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=39ff14" /></a>
-  <a href="https://x.com/MikeDeLaOzz" target="_blank"><img src="https://img.shields.io/badge/%E2%9D%AF_x-0a0f0a?style=for-the-badge&logo=x&logoColor=39ff14" /></a>
-  <a href="https://www.instagram.com/michael_martinez7/" target="_blank"><img src="https://img.shields.io/badge/%E2%9D%AF_instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=39ff14" /></a>
+  <a href="https://mikeoz27.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%9D%AF_portafolio-0a0f0a?style=for-the-badge&logo=githubpages&logoColor=39ff14" /></a>
+  <a href="https://www.linkedin.com/in/michael-martinez-de-la-hoz/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%9D%AF_linkedin-0a0f0a?style=for-the-badge&logo=linkedin&logoColor=39ff14" /></a>
+  <a href="https://x.com/MikeDeLaOzz" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%9D%AF_x-0a0f0a?style=for-the-badge&logo=x&logoColor=39ff14" /></a>
+  <a href="https://www.instagram.com/michael_martinez7/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/%E2%9D%AF_instagram-0a0f0a?style=for-the-badge&logo=instagram&logoColor=39ff14" /></a>
   <img src="https://komarev.com/ghpvc/?username=mikeOz27&style=for-the-badge&color=39ff14&label=VISITAS" />
 </p>
 
